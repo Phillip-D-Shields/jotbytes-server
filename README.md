@@ -1,3 +1,7 @@
+# 🚧 🚧 🚧 WORK IN PROGRESS 🚧 🚧 🚧
+
+> #### jotBYTES API Server is still in development. Please check back later for updates. no notes are secure. yet. 🚧 🚧 🚧
+
 # jotBYTES API Server
 
 jotBYTES API Server is a lightweight, efficient note-taking API built with [Fiber](https://gofiber.io/) and MongoDB. It provides a simple yet powerful way to create, retrieve, update, and delete notes, leveraging the speed of Go and the flexibility of MongoDB for storage.
